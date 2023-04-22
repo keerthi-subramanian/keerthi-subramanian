@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- You have reached my un-official GitHub account 🙏.
+- You have reached my un-official GitHub account 🙏
 
 - Please see my more active GitHub account [here](https://github.com/neonidian) ↗
 
