@@ -1,8 +1,8 @@
-### Hello there 👋
+## Vanakkam 🙏 / Hej ✌️ / Hello there 👋
 
-- You have reached my un-official GitHub account 🙏
+- You have reached my un-official GitHub account 
 
-- Please see my more active GitHub account [here](https://github.com/neonidian) ↗
+- Please see my more active GitHub account [here](https://github.com/neonidian) ↗ 🤓
 
 <!--
 **keerthi-subramanian/keerthi-subramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
